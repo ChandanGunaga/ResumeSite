@@ -8,9 +8,9 @@ export const DATA = {
   location: "Bangalore, India",
   locationLink: "https://www.google.com/maps/place/bangalore",
   description:
-    "Director at Mindorigin Technologies, a fintech company empowering growth through tailored financial and marketing solutions. Frontend engineering expert with 3+ years specializing in trading platforms and leading development teams.",
+    "Director at Mindorigin Technologies, a fintech company empowering growth through tailored financial and marketing solutions. Frontend engineering expert with 4+ years specializing in trading platforms and leading development teams.",
   summary:
-    "Director at Mindorigin Technologies, a fintech company focused on empowering growth through tailored financial and marketing solutions. With 3+ years of experience in frontend engineering, I've progressed from developer to technical leader, specializing in building complex trading platforms and scalable web applications. Proven expertise in leading development teams, implementing modern JavaScript frameworks, and translating business requirements into high-performance technical solutions.",
+    "Director at Mindorigin Technologies, a fintech company focused on empowering growth through tailored financial and marketing solutions. With 4+ years of experience in frontend engineering, I've progressed from developer to technical leader, specializing in building complex trading platforms and scalable web applications. Proven expertise in leading development teams, implementing modern JavaScript frameworks, and translating business requirements into high-performance technical solutions.",
   avatarUrl: "/chandan.png", // Update with your actual avatar path
   skills: [
     "ReactJS",
