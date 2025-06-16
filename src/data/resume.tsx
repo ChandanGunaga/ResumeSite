@@ -1,6 +1,5 @@
 import { Icons } from "@/components/icons";
 import { HomeIcon, NotebookIcon } from "lucide-react";
-import profile from "./profile.jpg"
 
 export const DATA = {
   name: "Chandan H Gunaga",
@@ -9,10 +8,10 @@ export const DATA = {
   location: "Bangalore, India",
   locationLink: "https://www.google.com/maps/place/bangalore",
   description:
-    "Director at Mindorigin Technologies, a fintech company empowering growth through tailored financial and marketing solutions. Frontend engineering expert with 3+ years specializing in fintech platforms and leading development teams.",
+    "Director at Mindorigin Technologies, a fintech company empowering growth through tailored financial and marketing solutions. Frontend engineering expert with 3+ years specializing in trading platforms and leading development teams.",
   summary:
     "Director at Mindorigin Technologies, a fintech company focused on empowering growth through tailored financial and marketing solutions. With 3+ years of experience in frontend engineering, I've progressed from developer to technical leader, specializing in building complex trading platforms and scalable web applications. Proven expertise in leading development teams, implementing modern JavaScript frameworks, and translating business requirements into high-performance technical solutions.",
-  avatarUrl: profile, // Update with your actual avatar path
+  avatarUrl: "/chandan.png", // Update with your actual avatar path
   skills: [
     "ReactJS",
     "NextJS",
@@ -83,9 +82,9 @@ export const DATA = {
     {
       company: "Mindorigin Technologies",
       href: "https://mindorigin.com", // Update with actual company URL
-      badges: ["Director", "SDE"],
+      badges: ["Director", "Fintech"],
       location: "Bangalore",
-      title: "Senior Software Engineer",
+      title: "Director",
       logoUrl: "/mindorigin.png", // Update with actual logo path
       start: "June 2023",
       end: "Present",
@@ -281,6 +280,57 @@ export const DATA = {
       win: "1st Place Winner",
       links: [],
     },
+    {
+      title: "Student of the Year Award",
+      dates: "2019",
+      location: "AJIET, Mangalore",
+      description:
+        "Awarded the prestigious 'Best Student Award' at AJIET for outstanding academic performance, leadership qualities, and contributions to college activities.",
+      image: "/student-award.png", // Update with actual image path
+      win: "Best Student Award",
+      links: [],
+    },
+    {
+      title: "AAKAR - State Level Techno Cultural Fest",
+      dates: "2020, 2022",
+      location: "Karnataka, India",
+      description:
+        "Served as Student Chief Coordinator, managing a team of 25+ volunteers and coordinating technical and cultural events with 2000+ participants, securing 15+ industry sponsors.",
+      image: "/aakar-fest.png", // Update with actual image path
+      win: "Leadership Role - Chief Coordinator",
+      links: [],
+    },
+    {
+      title: "National Level Science Fest 2016",
+      dates: "2016",
+      location: "Trissur, Kerala",
+      description:
+        "Recognized for excellence in scientific innovation, advancing from state-level competition to receive Wipro Special Award at the national level. Achieved 1st place in state level competition.",
+      image: "/science-fest.png", // Update with actual image path
+      win: "Wipro Special Award & State Level 1st Place",
+      links: [],
+    },
+    {
+      title: "Sir CV Raman Youth Scientist Award",
+      dates: "2016",
+      location: "Karnataka, India",
+      description:
+        "Selected from 200+ candidates for demonstrating exceptional scientific aptitude and research potential at the state level. Honored by multiple organizations for outstanding scientific contributions.",
+      image: "/cv-raman-award.png", // Update with actual image path
+      win: "State Level Recognition",
+      links: [],
+    },
+    {
+      title: "Student Association - President",
+      dates: "2019-2020",
+      location: "AJIET, Mangalore",
+      description:
+        "Served as President of Student Association HIEKA, leading student initiatives and representing student interests. Also served as Technical Committee Head, conducting numerous technical and cultural events, soft-skills training, and organizing workshops impacting over 2000 students.",
+      image: "/hieka-leadership.png", // Update with actual image path
+      win: "President & Technical Committee Head",
+      links: [],
+    },
+  
   ],
 
   achievements: [
