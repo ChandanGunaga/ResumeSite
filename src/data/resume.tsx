@@ -129,7 +129,7 @@ export const DATA = {
     {
       school: "M.E.S Chaitanya P.U College",
       href: "https://chaitanyacollegesirsi.com", // Update with actual URL
-      degree: "Class XII - PCMB (92%)",
+      degree: "Class XII - PCMB (95%)",
       logoUrl: "/chaitanya.png", // Update with actual logo path
       start: "2016",
       end: "2018",
@@ -137,7 +137,7 @@ export const DATA = {
     {
       school: "New English School (E.M)",
       href: "#",
-      degree: "Class X (97.2%)",
+      degree: "Class X (98%)",
       logoUrl: "/nes.png", // Update with actual logo path
       start: "2015",
       end: "2016",
